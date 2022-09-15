@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07fc49ad-a428-47ec-9167-5a3df75ecdc3" name="Changes" comment="" />
+    <list default="true" id="8d89edd7-8e03-43b3-ad86-067ea559043a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../pr2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pr2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +15,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Ein4FmSBSsdl3PFJGax1TSi2IQ" />
+  <component name="ProjectId" id="2EoFNHHIjKM0j2vqgcs1fQFBELp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,12 +25,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Admin/Desktop/test"
+    "last_opened_file_path": "C:/Users/Admin/Desktop/PL-Pleseinov/pr3"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="pr2" />
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pr3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -39,7 +41,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\Desktop\PL-Pleseinov\pr3\1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -52,11 +54,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="07fc49ad-a428-47ec-9167-5a3df75ecdc3" name="Changes" comment="" />
-      <created>1663087078887</created>
+      <changelist id="8d89edd7-8e03-43b3-ad86-067ea559043a" name="Changes" comment="" />
+      <created>1663253988932</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663087078887</updated>
+      <updated>1663253988932</updated>
     </task>
     <servers />
   </component>
@@ -75,8 +77,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>6</line>
+          <url>file://$PROJECT_DIR$/1.py</url>
+          <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
