@@ -1,6 +1,6 @@
 import math
-x = int(input("Введите значение"))
-t = int(input("Введите значение"))
-m = int(input("Введите значение"))
-z = ((6 * math.pi * t + 10 * math.cos(x ** 2)) / (math.sin(x) - (math.sqrt(t)))) * m ** 6
-print("z = {0:.2f}".format(z))
+x = float(input("Введите значение"))
+y = float(input("Введите значение"))
+z = float(input("Введите значение"))
+s = 2 ** -x * sqrt(x + (abs(y)**0.25))
+print("s = {0:.2f}".format(s))
