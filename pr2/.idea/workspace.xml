@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07fc49ad-a428-47ec-9167-5a3df75ecdc3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pr3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pr3/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -29,7 +30,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Desktop/test&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Desktop/PL-Pleseinov/pr2&quot;
   }
 }</component>
   <component name="RunManager">
