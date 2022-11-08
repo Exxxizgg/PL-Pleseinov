@@ -1,0 +1,2 @@
+Sum + elementov = 10
+Kol +elementov nad diagonaly= 2
